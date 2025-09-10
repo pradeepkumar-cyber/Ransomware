@@ -38,7 +38,7 @@ It demonstrates ransomware concepts safely for **classrooms, workshops, or resea
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ransom-demo-safe.git
+git clone https://github.com/pradeepkumar-cyber/Ransomware.git
 
 
 ```
@@ -106,7 +106,7 @@ GitHub Repository
 
 Educational ransomware research papers (demo purposes only)
 ---
-© 2025 Ransom-Demo Safe | For educational purposes only
+
 ```bash
 
 
@@ -117,3 +117,20 @@ If you like, I can now **make it visually more colorful with theme badges and de
 Do you want me to do that next?
 
 ```
+---
+
+## 📬 Contact
+
+If you have questions, suggestions, or want to discuss **educational cybersecurity topics**, feel free to reach out:  
+
+- **Name:** Pradeep Kumar  
+- **Email:** pradeepkumar@cyberswipe.in  
+- **GitHub:** [https://github.com/pradeepkumar-cyber](https://github.com/pradeepkumar-cyber)  
+- **LinkedIn:** [https://www.linkedin.com/in/pradeep-kumar-cyber](https://www.linkedin.com/in/pradeep-kumar-cyber)  
+ 
+
+I’m happy to collaborate on **ethical hacking, cybersecurity workshops, and educational projects**.  
+
+---
+
+© 2025 **Ransom-Demo Safe** | **For educational purposes only**
